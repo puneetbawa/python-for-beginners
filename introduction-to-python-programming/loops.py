@@ -41,31 +41,6 @@ step4:i=1
     go to step
 '''
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #print(first_list)
 #print(len(first_list))
 
